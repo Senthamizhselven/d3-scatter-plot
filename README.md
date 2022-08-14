@@ -6,4 +6,3 @@ The size of the circles are relative to the size of the population of the countr
 I used d3.tip for the tooltip functionality and a little bit of jquery for event handling.
 
 Project link: https://senthamizhselven.github.io/d3-scatter-plot/
-A clone of Gap-Minder's chart.
